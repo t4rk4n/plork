@@ -50,6 +50,7 @@
      <Compile Include="Assets\Controller.cs" />
      <Compile Include="Assets\GravityNode.cs" />
      <Compile Include="Assets\MouseForce.cs" />
+     <Compile Include="Assets\StartLevel.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

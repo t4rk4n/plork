@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StartLevel.cs">
+    <Files>
+      <File FileName="..\..\Box\Assets\CameraFollow2.cs" Line="18" Column="3" />
+      <File FileName="Assets\CameraMovement.cs" Line="17" Column="11" />
+      <File FileName="Assets\StartLevel.cs" Line="19" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
